@@ -140,11 +140,7 @@ function App() {
         </div>
       )}
 
-      <p className="attr">
-        Image by{" "}
-        <a href="https://pixabay.com/users/elg21-3764790/">Enrique</a> from{" "}
-        <a href="https://pixabay.com/">Pixabay</a>
-      </p>
+    
     </div>
   );
 }
